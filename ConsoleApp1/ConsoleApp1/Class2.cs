@@ -8,5 +8,10 @@ namespace ConsoleApp1
 	{
 		char f;
 		double d;
+
+		public void methP()
+		{
+			f = 't';
+		}
 	}
 }
