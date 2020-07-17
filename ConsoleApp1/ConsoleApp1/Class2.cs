@@ -6,5 +6,7 @@ namespace ConsoleApp1
 {
 	class Class2
 	{
+		char f;
+		double d;
 	}
 }
