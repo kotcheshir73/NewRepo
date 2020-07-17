@@ -4,10 +4,7 @@ using System.Text;
 
 namespace ConsoleApp1.NewFunctional
 {
-	class Class1
+	class Class3
 	{
-		int f;
-
-		int g;
 	}
 }
